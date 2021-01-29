@@ -1,3 +1,4 @@
+// bibliothèque à inclure
 #include <Arduino.h>
 
 #include <Wire.h>
